@@ -1,7 +1,5 @@
 
 ![deepwork-banner](./Assets/Screenshots/Screenshot%202025-02-19%20161007.png)
-
-### Deployment: [deepwork-app.vercel.app](https://deepwork-app.vercel.app/)
 ---
 
 ## What is deepwork?
